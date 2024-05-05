@@ -1,0 +1,8 @@
+bitcoin:
+  integration:
+    coin_desk:
+      url: https://api.coindesks.com/v1/bpi/currentprice.json
+    freecurrency:
+      url: https://api.freecurrencyapi.com/v1/latest
+      apiKey: fca_live_BXasiUbHE6GLyCUr6XXSC5Jykot61qMVSHGPbtVr
+      tokenHeaderName: apiKey
